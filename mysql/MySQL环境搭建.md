@@ -34,4 +34,4 @@ www.mysql.com
 * 安装完成后修改配置文件
 * 熟悉常用的数据库管理和操作工具
 
-** test
+![test](img/test.png)
